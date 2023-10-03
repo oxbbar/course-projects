@@ -17,6 +17,9 @@ This repository contains all the projects and case studies completed throughout 
     - Analysed Google Play Store and iOS App Store application data to identify trends and provide insight on categories and genres likely to draw high traffic with little saturation.
     - Python; pandas; Data cleaning and analysis
 
+- [Exploring and analysing Hacker News forum categories and hourly traffic data](https://github.com/oxbbar/course-projects/blob/main/exploring-hacker-news-posts/exploring-hacker-news-posts.ipynb)
+    - Analysed categorical posts and identified hourly trends in traffic to inform users of efficient practices.
+    - Python; pandas; Data cleaning and analysis
 
 <!-- 
 
